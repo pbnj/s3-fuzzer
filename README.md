@@ -16,6 +16,8 @@ go get -u -v github.com/petermbenjamin/s3-fuzzer
 
 ### Alternative Method
 
+Download directly from [Releases](https://github.com/petermbenjamin/s3-fuzzer/releases)
+
 ## Usage
 
 ```sh

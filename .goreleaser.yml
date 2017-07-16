@@ -1,0 +1,20 @@
+project_name: s3-fuzzer
+release:
+  github:
+    owner: petermbenjamin
+    name: s3-fuzzer
+
+builds:
+- goos:
+  - linux
+  - darwin
+  - windows
+  goarch:
+  - amd64
+  main: .
+  binary: s3-fuzzer
+archive:
+  format: zip
+  files:
+  - LICENSE*
+  - README*
