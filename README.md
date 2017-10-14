@@ -4,7 +4,7 @@
 
 ## Why
 
-Recently, a [security researcher][security-researcher] uncovered massive data leaks on AWS S3, like [this][one], [this][two], and [this][three].
+Because of [this](https://github.com/petermbenjamin/YAS3BL).
 
 ## Install
 
@@ -35,8 +35,3 @@ Flags:
 ## License
 
 MIT &copy; 2017 [Peter Benjamin](https://github.com/petermbenjamin)
-
-[security-researcher]: https://twitter.com/VickerySec
-[one]: http://gizmodo.com/top-defense-contractor-left-sensitive-pentagon-files-on-1795669632
-[two]: http://gizmodo.com/gop-data-firm-accidentally-leaks-personal-details-of-ne-1796211612
-[three]: https://www.theverge.com/2017/7/12/15962520/verizon-nice-systems-data-breach-exposes-millions-customer-records
